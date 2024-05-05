@@ -1,7 +1,8 @@
 import 'dart:io';
 
 void main(){
-  var cafetera= new Cafetera(0, 1000); int op=0;
+  var cafetera= new Cafetera(0, 1000); 
+  int op=0;
   do {
     print("Escoja una opcion: ");
     print("1. servir");
